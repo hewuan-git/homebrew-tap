@@ -1,5 +1,5 @@
 class TrackpadMedia < Formula
-  desc "Trackpad multi-finger gestures for media on macOS: swipe to skip tracks, up/down for volume, tap to play/pause（触摸板手势切歌、调音量、播放暂停）"
+  desc "macOS trackpad multi-finger gestures for media（触摸板手势切歌调音量）"
   homepage "https://github.com/hewuan-git/macos-trackpad-gestures"
   url "https://github.com/hewuan-git/macos-trackpad-gestures/archive/refs/tags/v1.0.tar.gz"
   sha256 "88e98b1a71a76b76d898afb346d8d9a7a0c8f7f8e0c5a6de20336d8a92ec12df"
