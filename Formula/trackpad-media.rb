@@ -1,8 +1,8 @@
 class TrackpadMedia < Formula
   desc "macOS trackpad multi-finger gestures for media（触摸板手势切歌调音量）"
   homepage "https://github.com/hewuan-git/macos-trackpad-gestures"
-  url "https://github.com/hewuan-git/macos-trackpad-gestures/archive/refs/tags/v1.0.tar.gz"
-  sha256 "88e98b1a71a76b76d898afb346d8d9a7a0c8f7f8e0c5a6de20336d8a92ec12df"
+  url "https://github.com/hewuan-git/macos-trackpad-gestures/archive/refs/tags/v1.1.tar.gz"
+  sha256 "40cbeae3397882e4faf2702537de5b46da2f1b4ac377257f420938f48d594310"
   license "MIT"
 
   # 只用到系统框架：CoreFoundation / CoreAudio / IOKit / MultitouchSupport + clang
